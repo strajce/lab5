@@ -137,3 +137,82 @@
 09:39:04.953 INFO  - Refreshed build settings on project hello_world 
 10:33:44.745 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
 10:36:10.473 ERROR - Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near  
+11:39:36.043 INFO  - Restoring local repository preferences: 
+		 D:\work\lprs2\2013_2014\Resene_vezbe\lab56\basic_system 
+11:39:36.199 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:40:18.369 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:41:35.018 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:41:35.033 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:42:19.903 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:42:19.903 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:42:19.934 WARN  - Unable to determine location of documentation for OS . 
+11:42:19.950 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:42:19.950 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:44:24.253 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:44:32.099 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:44:39.727 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:44:45.998 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:09.399 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:38.632 INFO  - Restoring local repository preferences: 
+		 D:\work\lprs2\2013_2014\Resene_vezbe\lab56\basic_system 
+11:45:38.678 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:41.018 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:42.173 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:42.188 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:42.219 WARN  - Unable to determine location of documentation for OS . 
+11:45:42.219 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:42.235 ERROR - Unable to read in MSS file C:\materija\ra198-2013\lab5\SDK\SDK_Workspace\hello_world_bsp\system.mss. 
+11:45:48.147 INFO  - Settings changed on project hello_world_bsp. Triggering a rebuild... 
+10:58:47.851 INFO  - FPGA configured successfully with bitstream "C:/materija/ra198-2013/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+11:00:11.322 INFO  - FPGA configured successfully with bitstream "C:/materija/ra198-2013/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+11:00:34.397 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+11:00:57.958 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+11:01:10.056 ERROR - FPGA Configuration failed.Connection to Board Failed
+
+
+    Failed to Open JTAG Cable
+    Cable target is not connected to the host
+ 
+11:01:20.761 INFO  - FPGA configured successfully with bitstream "C:/materija/ra198-2013/lab5/SDK/SDK_Workspace/basic_system_hw_platform/download.bit" 
+11:09:50.647 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:11:26.251 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:14:24.229 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:14:32.968 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:18:50.723 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:19:03.411 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:19:25.156 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:19:59.571 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:22:09.252 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:23:27.224 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:25:06.943 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:25:21.252 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:26:16.503 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:26:32.331 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:27:44.937 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:28:09.337 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:28:27.388 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:29:32.010 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:30:04.440 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:31:09.654 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:31:24.735 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:32:03.799 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:33:52.520 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:34:49.513 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:35:35.931 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:35:57.154 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:37:00.187 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:38:14.693 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:39:20.297 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:39:54.167 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:40:47.476 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
+11:42:12.951 INFO  - microblaze_0 Processor is in use. Please stop existing Run or Debug sessions before launching. 
